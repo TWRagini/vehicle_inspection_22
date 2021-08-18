@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

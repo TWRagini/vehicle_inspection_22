@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/twtech/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_f6049439750e014ed5c88f73ea6c2d93c77a6546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/twtech/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/527fece4f23a457070a36c371a26d6c0208e1c3/jackson-annotations-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
+        <dex dex="/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.3_e872b906bff5816e649d091c11282a35d76ad9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/twtech/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.3/3ae380888029daefb91d3ecdca3a37d8cb92bc9/jackson-databind-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.3_3b9e4d6fa42e090b72f0a03b46f8cf377c2c9fe7.jar" />
+    </item>
+
+</items>

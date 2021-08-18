@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_cloud_outline_off.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_cloud_outline_off.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_close_circle.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_close_circle.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_assignment.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_assignment.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_error_outline.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_error_outline.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_done.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_done.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_arrow_drop.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_arrow_drop.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/camera.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/generated/res/pngs/release/drawable-mdpi/camera.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_calendar_clock.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_calendar_clock.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_file_upload.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_file_upload.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable-mdpi/ic_error.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable-mdpi/ic_error.png"
+    }
+]

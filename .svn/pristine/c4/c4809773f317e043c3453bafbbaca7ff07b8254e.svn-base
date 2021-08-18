@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

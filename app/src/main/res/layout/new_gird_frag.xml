@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/vehicle2"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/layoutUpload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="8dp"
+            android:paddingBottom="15dp"
+            android:visibility="invisible">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/layer_list_4"/>
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Upload"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:textSize="15dp"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/layoutLogout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|end"
+            android:orientation="vertical"
+            android:visibility="invisible"
+            android:paddingTop="20dp">
+
+            <ImageView
+                android:id="@+id/imglogout"
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:layout_gravity="center"
+                android:src="@drawable/logout"/>
+
+            <TextView
+                android:id="@+id/logout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Logout"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"
+                android:textSize="15dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/layoutInspection"
+              android:layout_width="match_parent"
+              android:layout_height="60dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:gravity="center"
+              android:text="Click here to start inspection"
+              android:textAllCaps="false"
+              android:textSize="18dp"
+              android:background="@drawable/btn_shape"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

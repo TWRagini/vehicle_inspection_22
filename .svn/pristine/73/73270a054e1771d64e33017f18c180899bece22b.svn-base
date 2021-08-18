@@ -1,0 +1,2788 @@
+[
+    {
+        "outputFile": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 63,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 66,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 54,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1591,
+                        "endColumn": 54,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 54,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 54,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 73,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 73,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 51,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 51,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 52,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 52,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 56,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1357,
+                        "endColumn": 56,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 61,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1129,
+                        "endColumn": 61,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 45,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 45,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 59,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 59,
+                        "endOffset": 1352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 56,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 56,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 61,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 61,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 58,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 58,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endColumn": 52,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 52,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 43,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 43,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 45,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 45,
+                        "endOffset": 144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 59,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 59,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 45,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 45,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 60,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 60,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 47,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 37,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 37,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 46,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 46,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 59,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endColumn": 59,
+                        "endOffset": 1935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 66,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 66,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 49,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 49,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 46,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 46,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 45,
+                    "endOffset": 1754
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 45,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1759,
+                    "endColumn": 42,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endColumn": 42,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endColumn": 44,
+                    "endOffset": 1842
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 44,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1847,
+                    "endColumn": 66,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 66,
+                        "endOffset": 1066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endColumn": 66,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 66,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endColumn": 50,
+                    "endOffset": 2027
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 50,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2032,
+                    "endColumn": 41,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 41,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 57,
+                    "endOffset": 2127
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1071,
+                        "endColumn": 57,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2132,
+                    "endColumn": 53,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 53,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 52,
+                    "endOffset": 2234
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 52,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2239,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2535
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2540,
+                    "endColumn": 90,
+                    "endOffset": 2626
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 90,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2631,
+                    "endColumn": 102,
+                    "endOffset": 2729
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 445,
+                        "endColumn": 102,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2734,
+                    "endColumn": 102,
+                    "endOffset": 2832
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 102,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2837,
+                    "endColumn": 104,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endColumn": 106,
+                    "endOffset": 3044
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 106,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3049,
+                    "endColumn": 108,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 108,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 108,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 108,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3267,
+                    "endColumn": 108,
+                    "endOffset": 3371
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 108,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3376,
+                    "endColumn": 108,
+                    "endOffset": 3480
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 108,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3485,
+                    "endColumn": 108,
+                    "endOffset": 3589
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 108,
+                        "endOffset": 1403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3594,
+                    "endColumn": 106,
+                    "endOffset": 3696
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 106,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3701,
+                    "endColumn": 102,
+                    "endOffset": 3799
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 102,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3804,
+                    "endColumn": 118,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 118,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4073
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4078,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4228
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4233,
+                    "endColumn": 104,
+                    "endOffset": 4333
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 104,
+                        "endOffset": 2147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4338,
+                    "endColumn": 120,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endColumn": 120,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endColumn": 100,
+                    "endOffset": 4555
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endColumn": 100,
+                        "endOffset": 2369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4560,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 4702
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2374,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4707,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4843
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4848,
+                    "endColumn": 102,
+                    "endOffset": 4946
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2662,
+                        "endColumn": 102,
+                        "endOffset": 2760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4951,
+                    "endColumn": 118,
+                    "endOffset": 5065
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2765,
+                        "endColumn": 118,
+                        "endOffset": 2879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5070,
+                    "endColumn": 106,
+                    "endOffset": 5172
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2884,
+                        "endColumn": 106,
+                        "endOffset": 2986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5177,
+                    "endColumn": 102,
+                    "endOffset": 5275
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2991,
+                        "endColumn": 102,
+                        "endOffset": 3089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5280,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 5430
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5435,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5601
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3249,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5606,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 5750
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3420,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5755,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 5915
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3569,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5920,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 6072
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 3886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6077,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 6223
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3891,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6228,
+                    "endColumn": 118,
+                    "endOffset": 6342
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 118,
+                        "endOffset": 4156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6347,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 6714
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4161,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6719,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 6863
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4533,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6868,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 7012
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4682,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7017,
+                    "endColumn": 111,
+                    "endOffset": 7124
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4831,
+                        "endColumn": 111,
+                        "endOffset": 4938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7129,
+                    "endColumn": 146,
+                    "endOffset": 7271
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4943,
+                        "endColumn": 146,
+                        "endOffset": 5085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7276,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 7424
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5090,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 5238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7429,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 7571
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5243,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7576,
+                    "endColumn": 74,
+                    "endOffset": 7646
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5390,
+                        "endColumn": 74,
+                        "endOffset": 5460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7651,
+                    "endColumn": 88,
+                    "endOffset": 7735
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5465,
+                        "endColumn": 88,
+                        "endOffset": 5549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7740,
+                    "endColumn": 86,
+                    "endOffset": 7822
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5554,
+                        "endColumn": 86,
+                        "endOffset": 5636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7827,
+                    "endColumn": 100,
+                    "endOffset": 7923
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5641,
+                        "endColumn": 100,
+                        "endOffset": 5737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7928,
+                    "endColumn": 102,
+                    "endOffset": 8026
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5742,
+                        "endColumn": 102,
+                        "endOffset": 5840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8031,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 11094
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5845,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 8908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 11099,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 11280
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8913,
+                        "endLine": 113,
+                        "endColumn": 12,
+                        "endOffset": 9094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 11285,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14360
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 9099,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 12174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14365,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 14558
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12179,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 12372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 14563,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 14758
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 12377,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 14763,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 14881
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12577,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 14886,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15004
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12700,
+                        "endLine": 167,
+                        "endColumn": 12,
+                        "endOffset": 12818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15009,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15117
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 12823,
+                        "endLine": 169,
+                        "endColumn": 12,
+                        "endOffset": 12931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15122,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 15300
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 12936,
+                        "endLine": 172,
+                        "endColumn": 12,
+                        "endOffset": 13114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15305,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 15431
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 13119,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 13245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 15436,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 15632
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13250,
+                        "endLine": 177,
+                        "endColumn": 12,
+                        "endOffset": 13446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 15637,
+                    "endColumn": 88,
+                    "endOffset": 15721
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 13451,
+                        "endColumn": 88,
+                        "endOffset": 13535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 15726,
+                    "endColumn": 110,
+                    "endOffset": 15832
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13540,
+                        "endColumn": 110,
+                        "endOffset": 13646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 15837,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 16065
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13651,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 13879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16070,
+                    "endColumn": 100,
+                    "endOffset": 16166
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 13884,
+                        "endColumn": 100,
+                        "endOffset": 13980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16171,
+                    "endColumn": 94,
+                    "endOffset": 16261
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 13985,
+                        "endColumn": 94,
+                        "endOffset": 14075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16266,
+                    "endColumn": 122,
+                    "endOffset": 16384
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 14080,
+                        "endColumn": 122,
+                        "endOffset": 14198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16389,
+                    "endColumn": 128,
+                    "endOffset": 16513
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14203,
+                        "endColumn": 128,
+                        "endOffset": 14327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16518,
+                    "endColumn": 116,
+                    "endOffset": 16630
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14332,
+                        "endColumn": 116,
+                        "endOffset": 14444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 16635,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 16807
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14449,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 14621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 16812,
+                    "endColumn": 98,
+                    "endOffset": 16906
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14626,
+                        "endColumn": 98,
+                        "endOffset": 14720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 16911,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 17041
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14725,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 17046,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17184
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14860,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17189,
+                    "endLine": 238,
+                    "endColumn": 12,
+                    "endOffset": 17319
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15003,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 15133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17324,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17438
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15138,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17443,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 17639
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15257,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 15453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 17644,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17758
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15458,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 15572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17763,
+                    "endColumn": 92,
+                    "endOffset": 17851
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 15577,
+                        "endColumn": 92,
+                        "endOffset": 15665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 17856,
+                    "endColumn": 110,
+                    "endOffset": 17962
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15670,
+                        "endColumn": 110,
+                        "endOffset": 15776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 17967,
+                    "endColumn": 55,
+                    "endOffset": 18018
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 15781,
+                        "endColumn": 55,
+                        "endOffset": 15832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 18023,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 18125
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 15837,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 18130,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18320
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15944,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 18325,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 18431
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16139,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18436,
+                    "endLine": 259,
+                    "endColumn": 12,
+                    "endOffset": 18564
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16250,
+                        "endLine": 218,
+                        "endColumn": 12,
+                        "endOffset": 16378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 18569,
+                    "endColumn": 94,
+                    "endOffset": 18659
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16383,
+                        "endColumn": 94,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 18664,
+                    "endColumn": 90,
+                    "endOffset": 18750
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endColumn": 90,
+                        "endOffset": 16564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 18755,
+                    "endColumn": 90,
+                    "endOffset": 18841
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16569,
+                        "endColumn": 90,
+                        "endOffset": 16655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 18846,
+                    "endColumn": 116,
+                    "endOffset": 18958
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 16660,
+                        "endColumn": 116,
+                        "endOffset": 16772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 18963,
+                    "endLine": 265,
+                    "endColumn": 12,
+                    "endOffset": 19097
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 16777,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 16911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 19102,
+                    "endColumn": 70,
+                    "endOffset": 19168
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 16916,
+                        "endColumn": 70,
+                        "endOffset": 16982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 19173,
+                    "endColumn": 82,
+                    "endOffset": 19251
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 16987,
+                        "endColumn": 82,
+                        "endOffset": 17065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19256,
+                    "endLine": 277,
+                    "endColumn": 12,
+                    "endOffset": 19931
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 17070,
+                        "endLine": 236,
+                        "endColumn": 12,
+                        "endOffset": 17745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 19936,
+                    "endColumn": 56,
+                    "endOffset": 19988
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 17750,
+                        "endColumn": 56,
+                        "endOffset": 17802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 19993,
+                    "endColumn": 57,
+                    "endOffset": 20046
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 17807,
+                        "endColumn": 57,
+                        "endOffset": 17860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 20051,
+                    "endLine": 291,
+                    "endColumn": 12,
+                    "endOffset": 20740
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 17865,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 20745,
+                    "endLine": 303,
+                    "endColumn": 12,
+                    "endOffset": 21446
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18559,
+                        "endLine": 262,
+                        "endColumn": 12,
+                        "endOffset": 19260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 21451,
+                    "endColumn": 118,
+                    "endOffset": 21565
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19265,
+                        "endColumn": 118,
+                        "endOffset": 19379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 21570,
+                    "endColumn": 128,
+                    "endOffset": 21694
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 19384,
+                        "endColumn": 128,
+                        "endOffset": 19508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 21699,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 21865
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 19513,
+                        "endLine": 267,
+                        "endColumn": 12,
+                        "endOffset": 19679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 21870,
+                    "endLine": 311,
+                    "endColumn": 12,
+                    "endOffset": 22031
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 19684,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 19845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 22036,
+                    "endColumn": 128,
+                    "endOffset": 22160
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 19850,
+                        "endColumn": 128,
+                        "endOffset": 19974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 22165,
+                    "endLine": 315,
+                    "endColumn": 12,
+                    "endOffset": 22331
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 19979,
+                        "endLine": 274,
+                        "endColumn": 12,
+                        "endOffset": 20145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 22336,
+                    "endColumn": 130,
+                    "endOffset": 22462
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 20150,
+                        "endColumn": 130,
+                        "endOffset": 20276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 22467,
+                    "endLine": 319,
+                    "endColumn": 12,
+                    "endOffset": 22632
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 20281,
+                        "endLine": 278,
+                        "endColumn": 12,
+                        "endOffset": 20446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 22637,
+                    "endLine": 324,
+                    "endColumn": 12,
+                    "endOffset": 22919
+                },
+                "from": {
+                    "file": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 22924,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 23094
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 20451,
+                        "endLine": 281,
+                        "endColumn": 12,
+                        "endOffset": 20621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 23099,
+                    "endLine": 332,
+                    "endColumn": 12,
+                    "endOffset": 23435
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 20626,
+                        "endLine": 286,
+                        "endColumn": 12,
+                        "endOffset": 20962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 23440,
+                    "endLine": 335,
+                    "endColumn": 12,
+                    "endOffset": 23629
+                },
+                "from": {
+                    "file": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

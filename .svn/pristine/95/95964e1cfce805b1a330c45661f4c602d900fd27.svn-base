@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/design_ic_visibility.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_list_4.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_list_4.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/fvlogo.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/fvlogo.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/spinner_background.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/ripple_button_circle.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/ripple_button_circle.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_list_3.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_list_3.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_shape_attachment.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_shape_attachment.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/vehicle2.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/vehicle2.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/image_border.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/image_border.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_shape_calendar.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_shape_calendar.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_list_1.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_list_1.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/twtech/.android/build-cache/7122d73240be54d6dd7ce57f5aed19c5f62c2cbd/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/vehicle.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/vehicle.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_list_2.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_list_2.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/layer_list_button.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/layer_list_button.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/fvlogo_new.png",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/fvlogo_new.png"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/ripple_button.xml",
+        "source": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/src/main/res/drawable/ripple_button.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/twtech/Andr_projects/VehicleFTPR/VehicleFTPR10Jan2018/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/twtech/.android/build-cache/cb890a5eb2f7925a45f180fc996504b6d21c8227/output/res/drawable/abc_btn_radio_material.xml"
+    }
+]
